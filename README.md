@@ -21,8 +21,10 @@ Kickstarting with Excel: A Written Analysis for the "Kickstarter Analysis" Proje
   Results
     
     What are two conclusions you can draw about the Outcomes Based on Launch Date?
+    You can draw that for the most part, successful and failed campaigns move up and down in count together. What this tells us is that there really isn't a bad time of the year to launch your campaign as long as you have a product that peopel will want to pay for. The outlier here is May - July where the funded campaigns are at a much higher mark than the failed ones. The second conclusion here is that the best time to launch your campaign is in the late spring/summer timeframe. Not only are there a large amount of camapagns being funded during this time, but there are a lower percentage of total campaigns failing. The best Month out of these is May followed by June. If Louise wanted to launch another campaign for a play, doing so in May or June would be the best time to do so.
     
     What can you conclude about the Outcomes based on Goals?
+    The data seems to trend down from the price category Less than 1000 being the highest to 25000 to 29999 being the lowest portion of this consistent negative decline. After that, the chart rises again and falls. To explain the end of the graph, there isn't much of a statistical trend to draw off of but, the beginning of the graph makes it pretty obvious that you have a better chance at getting your campaign funded based on cost. Projects less than $1,000 were funded 76% of the time while projects priced between $25,000 and $29,999 were only funded 20% of the time. Unless you can count on a wealthy donor or, a weathly market in general that may be willing to splurge on your campaign, you are best off keeping your project as cheap as possible.
     
     What are some limiations of this dataset?
     
