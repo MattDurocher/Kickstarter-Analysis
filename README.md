@@ -6,7 +6,8 @@ Kickstarting with Excel: A Written Analysis for the "Kickstarter Analysis" Proje
   
   Analysis and Challenges
   
-    Analysis of Outcomes Based on Launch Date
+    Analysis of Outcomes Based on Launch Date: When working on Outcomes Based on Launch Date, I was able to form a pivot table. Before going ahead and forming the table, I had to use the formula =YEAR(@S:S). This formula allowed me to pull the year out of the Date Created Conversion column on the data spreadsheet. This was crucial for the fomration of the pivot table. The table was set up using Years and Parent Category as the Filters, Outcomes for the Columns, Date Created Conversion for the Rows, and Count of Outcomes for the Value. Since we were looking at completed campaigns, the Live option for values was filtered out and the Outcome columns were aranged decending to show Successful campaigns first followed by failed, canceled, and grand total. The data rows were laid out by months, this was achieved by getting rid of the years and quarters options in the Row field when originally adding Date Created Conversion to the field. The chart can be seen below. 
+    ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/111014191/184519347-b21fd496-3505-4dc7-9d64-1bed3cc36df0.png)
     
     Analysis of Outcomes Based on Goals
     
