@@ -1,4 +1,4 @@
-Kickstarting with Excel: A Written Analysis for the "Kickstarter Analysis" Project
+# Kickstarting with Excel: A Written Analysis for the "Kickstarter Analysis" Project
   
   Overview of Project
     
